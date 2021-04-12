@@ -26,6 +26,7 @@ h3 {
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
+  line-height: 2;
 }
 .top-container {
     background-color: #8FD9A8;
@@ -50,4 +51,14 @@ top: 50px;
   position: absolute;
   left: 300px;
   bottom: 300px;
+}
+.human {
+  width: 13%;
+  float: left;
+}
+.like {
+  width: 20%;
+}
+.skill {
+  width: 20%;
 }
