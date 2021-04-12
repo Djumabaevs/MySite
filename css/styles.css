@@ -24,6 +24,8 @@ h3 {
 }
 .skill-row {
   width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
 }
 .top-container {
     background-color: #8FD9A8;
