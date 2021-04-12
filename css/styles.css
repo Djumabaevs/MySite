@@ -33,6 +33,16 @@ hr {
   width: 4%;
   margin: 100px auto 100px auto;
 }
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 20px 10px;
+  text-decoration: none;
+}
+a:hover {
+  color: #EAF6F6;
+}
+
 .skill-row {
   width: 50%;
   margin: 100px auto 100px auto;
@@ -49,8 +59,10 @@ hr {
 
 }
 .bottom-container {
-
+  background-color: #66BFBF;
+  padding: 50px 0 0px;
 }
+
 .pro {
   text-decoration: underline;
 }
@@ -92,6 +104,11 @@ top: 50px;
   width: 40%;
   margin: 40px auto 60px;
 }
+.end {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
 
 .btn {
   background: #11cdd4;
@@ -103,7 +120,7 @@ top: 50px;
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
-  font-family: Arial;
+  font-family: 'Montserrat', sans-serif;
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
